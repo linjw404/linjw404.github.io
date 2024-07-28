@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://linjw.xyz/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-07T16:57:53+08:00</lastmod>
   </url><url>
-    <loc>https://linjw.xyz/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%83%B3%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://localhost:1313/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%83%B3%E5%86%99%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2024-07-07T16:57:53+08:00</lastmod>
   </url><url>
-    <loc>https://linjw.xyz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-07T16:57:53+08:00</lastmod>
   </url><url>
-    <loc>https://linjw.xyz/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-07-07T15:09:09+08:00</lastmod>
   </url><url>
-    <loc>https://linjw.xyz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://linjw.xyz/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
